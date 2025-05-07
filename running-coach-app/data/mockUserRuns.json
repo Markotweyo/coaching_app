@@ -1,0 +1,64 @@
+{
+  "runs": [
+    {
+      "userId": "user123",
+      "date": "2024-03-15T08:00:00Z",
+      "distance": 5.2,
+      "duration": 1800,
+      "pace": 346,
+      "runType": "easy",
+      "recoveryScore": 7,
+      "heartRate": {
+        "average": 145,
+        "max": 160
+      },
+      "notes": "Felt good, easy pace",
+      "location": "Central Park",
+      "weather": {
+        "temperature": 18,
+        "conditions": "Sunny"
+      },
+      "elevationGain": 45
+    },
+    {
+      "userId": "user123",
+      "date": "2024-03-17T07:30:00Z",
+      "distance": 8.5,
+      "duration": 3060,
+      "pace": 360,
+      "runType": "long",
+      "recoveryScore": 6,
+      "heartRate": {
+        "average": 155,
+        "max": 175
+      },
+      "notes": "Long run, maintained steady pace",
+      "location": "Riverside Park",
+      "weather": {
+        "temperature": 16,
+        "conditions": "Cloudy"
+      },
+      "elevationGain": 85
+    },
+    {
+      "userId": "user123",
+      "date": "2024-03-19T17:00:00Z",
+      "distance": 4.0,
+      "duration": 1200,
+      "pace": 300,
+      "runType": "tempo",
+      "recoveryScore": 5,
+      "heartRate": {
+        "average": 165,
+        "max": 180
+      },
+      "notes": "Tempo run, pushed hard",
+      "location": "Track",
+      "weather": {
+        "temperature": 20,
+        "conditions": "Clear"
+      },
+      "elevationGain": 10
+    }
+  ]
+}
